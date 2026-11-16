@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina de Integração Contínua.
 
-## Tecnologias
+## Tecnologia
 
 - Java 21
 - Spring Boot
